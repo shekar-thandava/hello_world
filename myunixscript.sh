@@ -10,3 +10,5 @@ echo "hello, today is $(date)" >> /home/cloudera/shekar-cdh/jenkins_learn/jenkin
 ##echo "Close for day!!" >> /home/cloudera/shekar-cdh/jenkins_learn/jenkins_test
 
 echo "Start again!!" >> /home/cloudera/shekar-cdh/jenkins_learn/jenkins_test
+
+echo "Local repo changes on 2nd Sept!!" >> /home/cloudera/shekar-cdh/jenkins_learn/jenkins_test
