@@ -11,4 +11,4 @@ echo "hello, today is $(date)" >> /home/cloudera/shekar-cdh/jenkins_learn/jenkin
 
 echo "Start again!!" >> /home/cloudera/shekar-cdh/jenkins_learn/jenkins_test
 
-echo "Local repo changes on 2nd Sept with Atom!!" >> /home/cloudera/shekar-cdh/jenkins_learn/jenkins_test
+echo "Local repo changes on 2nd Sept with Atom - I figure I have got it now!!" >> /home/cloudera/shekar-cdh/jenkins_learn/jenkins_test
